@@ -1,6 +1,6 @@
 # AI-Powered-Fake-Job-Posting-Detection
 
-#📌 Project Overview
+📌 Project Overview
 Fake job postings are a growing concern, often leading to scams and fraud. This project aims to classify LinkedIn job postings as real or fake using a Random Forest model. The model is trained on various features extracted from job descriptions to improve accuracy in identifying fraudulent listings.
 
 📂 Dataset
