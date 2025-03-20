@@ -58,10 +58,3 @@ By analyzing job descriptions, company details, and other textual features, we t
 ✅ Demonstrated that **text-based patterns can reveal fraud** in job listings.
 
 ---
-
-## 🚀 How to Run
-
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/yourusername/fake-job-detection.git
-cd fake-job-detection
